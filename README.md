@@ -17,5 +17,4 @@ Homeless Media refers to a type of media that relies on social media platforms a
 ## Demo
 ![Screenshot](https://i.imgur.com/p02Bhex.png)
 
-Result
 ![Result](https://i.imgur.com/cukIuqy.png)
