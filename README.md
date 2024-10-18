@@ -2,7 +2,7 @@
 
 Homeless Media Template made with only 1 html file.
 
-Kudos to Fahim Ardani, from IMPHNEN aka Ingin Menjadi Programmer Handal, Namun Enggan Ngoding on Facebook
+Kudos to Fahim Ardani, from IMPHNEN aka Ingin Menjadi Programmer Handal, Namun Enggan Ngoding on Facebook for making this template
 
 ## Useful Sauce
 
