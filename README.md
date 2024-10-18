@@ -6,7 +6,7 @@ Kudos to Fahim Ardani, from IMPHNEN aka Ingin Menjadi Programmer Handal, Namun E
 
 ## Useful Sauce
 
-- [Link to his post](https://www.facebook.com/groups/programmerhandal/permalink/1210468166843031)
+- [Link to his post on facebook](https://www.facebook.com/groups/programmerhandal/permalink/1210468166843031)
 - [Understanding Homeless Media: A Study on Social Media Based Informal Local News in Five Indonesian Cities 2024](https://www.remotivi.or.id/penelitian/22)
 
 
